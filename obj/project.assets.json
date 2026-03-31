@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/congnguyen/Deakin_S736/SIT771/07_03/code/code.csproj",
+      "projectUniqueName": "/Users/congnguyen/Coding/PokerBot_CS/code.csproj",
       "projectName": "code",
-      "projectPath": "/Users/congnguyen/Deakin_S736/SIT771/07_03/code/code.csproj",
+      "projectPath": "/Users/congnguyen/Coding/PokerBot_CS/code.csproj",
       "packagesPath": "/Users/congnguyen/.nuget/packages/",
-      "outputPath": "/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/",
+      "outputPath": "/Users/congnguyen/Coding/PokerBot_CS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/congnguyen/.nuget/NuGet/NuGet.Config"
